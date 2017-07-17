@@ -1,12 +1,7 @@
 <?php
-
 /**
  * Created by PhpStorm.
  * User: Sameer Zaher
- * Date: 2017-06-13
- * Time: 16:38
+ * Date: 2017-07-09
+ * Time: 21:36
  */
-class User
-{
-
-}
